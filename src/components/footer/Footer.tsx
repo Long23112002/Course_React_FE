@@ -5,7 +5,7 @@ import { Link} from "react-router-dom";
 function Footer() {
 	return (
 		// <!-- Footer -->
-		<footer style={{backgroundColor:"black"}} className=' text-center text-white'>
+		<footer style={{backgroundColor:"black"}} className=' text-center text-white mt-3'>
 			{/* <!-- Grid container --> */}
 			<div className='container p-4'>
 				{/* <!-- Section: Social media --> */}
